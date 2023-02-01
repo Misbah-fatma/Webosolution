@@ -1,0 +1,257 @@
+@font-face {font-family: "revicons"; src: url("//db.onlinewebfonts.com/t/0e979bd4a3c1c6ac788ed57ac569667f.eot"); src: url("//db.onlinewebfonts.com/t/0e979bd4a3c1c6ac788ed57ac569667f.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/0e979bd4a3c1c6ac788ed57ac569667f.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/0e979bd4a3c1c6ac788ed57ac569667f.woff") format("woff"), url("//db.onlinewebfonts.com/t/0e979bd4a3c1c6ac788ed57ac569667f.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/0e979bd4a3c1c6ac788ed57ac569667f.svg#revicons") format("svg"); }
+
+img.logo-img {
+    width: 188px;
+}
+.fa {
+    color: #fff !important;
+}
+
+#phone{
+    color: #fff !important;
+}
+span:hover {
+    color: #fa6706 !important;
+}
+.topbar-lang-switcher ul li span:hover{
+    color: #fa6706 !important;
+}
+.navbar-default .nav:hover > li.dropdown:hover > a, .navbar.navbar-default.navbar-shrink .menubar .navbar-nav a:hover, .transparent-navigation .navbar.navbar-default:not(.navbar-shrink) .nav > .menu-item > a:hover, .transparent-navigation .navbar.navbar-default .menubar .navbar-nav .dropdown-menu a:hover, .navbar.navbar-default .menubar .navbar-nav .active > a:hover, .navbar.navbar-default .navbar-nav a:hover {
+    color: #fa6706 !important;
+}
+#menu-color:hover {
+    color: #000 !important;
+}
+.kd-panel-social-list .redux-social-media-list a:hover{
+        background: black;
+    border-radius: 30px;
+}
+p {
+    text-align: justify;
+}
+h5.center-header {
+    text-align: center;
+    font-size: 40px;
+    color: #000;
+}
+
+
+ .fas {
+    font-weight: 900;
+    width: auto;
+    height: 60px;
+    font-size: 44px;
+	    color: #fa6706;
+}
+
+
+
+
+.shadow-effect {
+		    background: #fff;
+		    padding: 20px;
+		    border-radius: 4px;
+		    text-align: center;
+	border:1px solid #ECECEC;
+		    box-shadow: 0 19px 38px rgba(0,0,0,0.10), 0 15px 12px rgba(0,0,0,0.02);
+		}
+		#customers-testimonials .shadow-effect p {
+		    font-family: inherit;
+		    font-size: 17px;
+		    line-height: 1.5;
+		    margin: 0 0 17px 0;
+		    font-weight: 300;
+		}
+		.testimonial-name {
+		    margin: -17px auto 0;
+		    display: table;
+		    width: auto;
+		    background: blue;
+		    padding: 9px 35px;
+		    border-radius: 12px;
+		    text-align: center;
+		    color: #fff;
+		    box-shadow: 0 9px 18px rgba(0,0,0,0.12), 0 5px 7px rgba(0,0,0,0.05);
+		}
+		#customers-testimonials .item {
+		    text-align: center;
+		    padding: 50px;
+				margin-bottom:80px;
+		    opacity: .2;
+		    -webkit-transform: scale3d(0.8, 0.8, 1);
+		    transform: scale3d(0.8, 0.8, 1);
+		    -webkit-transition: all 0.3s ease-in-out;
+		    -moz-transition: all 0.3s ease-in-out;
+		    transition: all 0.3s ease-in-out;
+		}
+		#customers-testimonials .owl-item.active.center .item {
+		    opacity: 1;
+		    -webkit-transform: scale3d(1.0, 1.0, 1);
+		    transform: scale3d(1.0, 1.0, 1);
+		}
+		.owl-carousel .owl-item img {
+		    transform-style: preserve-3d;
+		    max-width: 90px;
+    		margin: 0 auto 17px;
+		}
+		#customers-testimonials.owl-carousel .owl-dots .owl-dot.active span,
+#customers-testimonials.owl-carousel .owl-dots .owl-dot:hover span {
+		    background: #3190E7;
+		    transform: translate3d(0px, -50%, 0px) scale(0.7);
+		}
+#customers-testimonials.owl-carousel .owl-dots{
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+#customers-testimonials.owl-carousel .owl-dots .owl-dot{
+	display: inline-block;
+}
+		#customers-testimonials.owl-carousel .owl-dots .owl-dot span {
+		    background: #3190E7;
+		    display: inline-block;
+		    height: 20px;
+		    margin: 0 2px 5px;
+		    transform: translate3d(0px, -50%, 0px) scale(0.3);
+		    transform-origin: 50% 50% 0;
+		    transition: all 250ms ease-out 0s;
+		    width: 20px;
+		}
+		
+		
+#m-top{
+	
+	
+	margin-top: 10vh;
+}
+#m-top1{
+	
+	
+	margin-top: -22vh;
+}
+section.testimonials {
+    margin-top: -18vh !important;
+}
+.col-12.col-lg-5.m-lg-0.input-group.align-self-center.item {
+    float: left;
+    width: 33%;
+}
+.col-12.col-lg-2.m-lg-0.input-group.align-self-center.item {
+    float: right;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #000 !important;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #000 !important;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #000 !important;
+}
+input{
+    color: #fa6706 !important;
+}
+ h4 {
+    color: #fff !important;
+    font-weight: 700;
+}
+.woocommerce ul.products li.product .added_to_cart, .woocommerce ul.products li.product .button, .woocommerce div.product form.cart .button, .tt_button, .wpcf7 .wpcf7-submit, .content-area .vc_grid .vc_gitem-zone-c .vc_general, .tt_button.modal-menu-item, .vc_grid-item-mini .blog-detailed-grid .vc_btn3-container a, .pricing-table .tt_button, .pricing-table.active .tt_button {
+    font-weight: 800 !important;
+    font-size: 1rem !important;
+    letter-spacing: 1px;
+}
+.digital-services {
+    display: block;
+    margin-bottom: 30px;
+}
+.digital-wel {
+    text-align: center;
+      border: 2px solid rgb(216 247 241);
+    padding: 30px;
+}
+.digital-icon {
+    font-size: 60px;
+    margin-bottom: 20px;
+    display: block;
+    line-height: 60px;
+}
+.digital-content h4 {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 30px;
+	color: #000 !important;
+    margin-bottom: 0px;
+}
+.kd-shapes.shape_right_pos {
+    top: 20em !important;
+}
+#text-center {
+    text-align: center !important;
+}
+i.fas.fa-map-marker {
+    height: 30px;
+	color: #fff;
+}
+i.fas.fa-envelope {
+    height: 30px;
+	color: #fff;
+}
+i.fas.fa-phone-volume {
+    color: #fff;
+}
+img.subsidary {
+    width: 110px;
+}
+i.fas:hover{
+	color: #fff !important;
+}
+span.right {
+    float: right !important;
+}
+section#slider {
+    height: 50vh !important;
+    padding: 0;
+    margin: 0;
+}
+.color-orange {
+    color: #fa6706 !important;
+}
+section.section-2 {
+    background-color: #fcfcfc !important;
+}
+
+h4.color {
+    color: #000 !important;
+}
+fieldset#f-right {
+    float: right !important;
+	    width: 50% !important;
+    text-align: center !important;
+	margin-right: 20%;
+}
+.col-12.input-group.p-0 {
+    width: 100% !important;
+}
+input.field-email2 {
+    border: 1px solid #fa6706 !important;
+}
+input.field-name2 {
+	 border: 1px solid #fa6706 !important;
+}
+input.field-phone3 {
+	border: 1px solid #fa6706 !important;
+}
+textarea.field-message {
+	border: 1px solid #fa6706 !important;
+}
+img.hero-image-left1 {
+    width: 508px;
+    height: 650px;
+}
+input.wpcf7-form-control.wpcf7-submit {
+    color: #fff !important;
+}

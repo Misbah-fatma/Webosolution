@@ -1,0 +1,63 @@
+.about-section{
+    background-image: url(../img/corporate17.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.about-breadcrumb h1{
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    font-size: 64px;
+    margin-top: 5%;
+    color: #fff;
+}
+.about-section .breadcrumb-item .active{
+    color: #3190E7 !important;
+}
+#about-featured-text{
+    width: 100%;
+}
+.about-qulity-text{
+    color: blue !important;
+    margin-bottom: 0 !important;
+}
+.about-para-taxt{
+    color: #333 !important;
+}
+.social-icon{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.vission-section ul li{
+    list-style: none;
+}
+
+.vission-section{
+    padding: 12px 0 !important;
+}
+.social-icon:hover{
+    color: #333 !important;
+}
+/* blog details start css */
+
+.blog-detials-link{
+    color: skyblue !important;
+}
+.card-box-setion{
+    box-shadow: 1px 2px 3px #000;
+    padding: 20px;
+}
+.card-box-setion .content-box h1{
+    color: #333 !important;
+    padding: 10px 0 !important;
+}
+
+.contact-section{
+    padding: 2px 0 !important;
+    padding-bottom: 20px !important;
+}
